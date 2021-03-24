@@ -1,0 +1,22 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background:linear-gradient(powderblue,rgb(190, 255, 190)) ;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    color: #fdffff;
+    padding: 5px 20px;
+    background-color: #ffffff80;
+    border-style: none;
+}
+
+input {
+    height: 27px;
+}
